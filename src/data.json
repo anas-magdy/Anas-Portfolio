@@ -1,0 +1,131 @@
+{
+    "name":"Anas Magdy",
+    "image":"",
+    "jobTitles": ["Software Engineer","Front-end Developer", "React Developer"],
+    "email":"anasmagdy80@gmail.com",
+    "phone":"+20 1141831771",
+    "location":"Giza, Egypt",
+    "birthDay":"17-05-2001",
+    "socialMedia": {
+            "facebook":"https://www.facebook.com/ans.magdy.54",
+            "linkedin":"https://www.linkedin.com/in/anas-magdy/",
+            "github":"https://github.com/anas-magdy"
+        },
+    "about":
+        {
+            "english":"Recent Faculty of Computers and Artificial Intelligence graduate, skilled in software engineering and front-end development. Proficient in React.js, HTML, CSS, and JavaScript, with a passion for creating engaging web interfaces and solving complex problems. Eager to apply my skills to innovative and impactful projects.",
+            "arabic":"خريج كلية الحاسبات والذكاء الاصطناعي مؤخرًا، متخصص في هندسة البرمجيات وتطوير الواجهة الأمامية. متمكن من React.js وHTML وCSS وJavaScript، ولدي شغف بإنشاء واجهات ويب جذابة وحل المشكلات المعقدة. حريص على تطبيق مهاراتي في مشاريع مبتكرة ومؤثرة."
+        },
+        "education":"Bachelor’s degree / Fresh Graduate from Faculty of Computers and Artificial Intelligence(Information system Department)Helwan University. 3.48 GPA (Excellent with honor 87%)",
+    "skills":
+        [
+            {"React":"atom.png"},
+            {"Next JS":"nextjs.svg"},
+            {"JavaScript":"javascript-js.svg"},
+            {"HTML5":"html-5.png"},
+            {"Restful API":""},
+            {"CSS3":"css.png"},
+            {"SEO":"seo.png"},
+            {"MUI":"mui.png"},
+            {"Bootstrap":"bootstrap-plain-wordmark.svg"},
+            {"GSAP":"gsap.png"},
+            {"jQuery":""},
+            {"Node JS":"nodejs.png"},
+            {"express":""},
+            {"Mongo DB":"mongodb-plain-wordmark.svg"},
+            {"SQL":"sql.svg"},
+            {"ASP.NET":"new_icon.svg"},
+            {"OOP":""},
+            {"clean code":""},
+            {"Git":""}
+        ],
+    "projects":[
+        {
+            "title":"YouTube Clone",
+            "image":"youTubeClone.png",
+            "discription":"Developed a responsive and interactive user interface using React.js, Bootstrap, HTML, and CSS and The design replicated key YouTube components, including the video player, search bar, video thumbnails, and video details section, ensuring functionality and engaging user experience ",
+            "link":"https://stellular-starlight-1fa42c.netlify.app/"
+        },
+        {
+            "title":"E-commerce Website",
+            "image":"...",
+            "discription":"Developed a responsive and user-friendly interface using React.js, ensuring seamless navigation across devices. Implemented a shopping cart feature with functionality to add products, adjust quantities, and proceed to checkout.Integrated a dynamic product catalog with search and filter options, enabling users to explore products by categories, keywords, and filters.",
+            "link":"https://github.com/anas-magdy/e-Commerce"
+        },
+        {
+            "title":"OutStagram project",
+            "image":"...",
+            "discription":"An application built with the ASP.NET framework performs certain Instagram platform functions, such as uploading photos, adding comments, and reacting to photos. A single-page application (SPA) built using AJAX requests, designed with a SQL database and following the design-first pattern, ensures seamless functionality without requiring full-page reloads. ",
+            "link":"https://github.com/anas-magdy/outStagram"
+        }
+
+    ],
+    "volunteering":
+        [
+            {
+                "organization":"Minders",
+                "image":"....",
+                "jobTitle":"Data Structure Tutor",
+                "discription":"Tutored over 20 students on core data structures (pointers, arrays, stacks, linked lists, queues). Developed lesson plans balancing theory and practice. Led lab sessions to implement data structures and optimize time and space complexity in C",
+                "startDate":"2021",
+                "endDate":"2022"
+            },
+            {
+                "organization":"FCG - Freelancing Career Guide",
+                "image":"....",
+                "jobTitle":"Vice Head IT",
+                "discription":"Supervised and mentored a team of volunteers, ensuring effective collaboration and skill development. Managed and regularly updated the organization’s website to maintain accuracy and engagement.",
+                "startDate":"2021",
+                "endDate":"2022"
+            },
+            {
+                "organization":"Minders",
+                "image":"....",
+                "jobTitle":"IT Member Volunteer",
+                "discription":"Contributed to web development workshops, providing technical insights and support. Served as technical support during the Minders'20 events, ensuring smooth execution.",
+                "startDate":"2019",
+                "endDate":"2020"
+            },
+            {
+                "organization":"MSP - Microsoft Student Partner",
+                "image":"....",
+                "jobTitle":"Organizing Committee Volunteer",
+                "discription":"Played a key role in organizing and coordinating MSP'20 events, ensuring successful delivery and participant engagement.",
+                "startDate":"2019",
+                "endDate":"2020"
+            }
+        ],
+        "certificates":
+        [
+            {
+                "organization":"Udemy",
+                "image":"udemy.png",
+                "jobTitle":"JavaScript: Understandin the Weird Parts (2024 Recogn-Edition).",
+                "discription":".........................................................................................",
+                "certificate":"Udemy.pdf",
+                "startDate":"Jan. 2, 2025",
+                "endDate":""
+            },
+            {
+                "organization":"ITI (Information technology institute)",
+                "image":"iti.png",
+                "jobTitle":"Mean Stack Developer Track “ITI Tech-Leaps (online)”.",
+                "discription":"JavaScript Hoisting, How to create a complete website How to link front end and back end with restful API.",
+                "certificate":"ITI Tech-Leaps.pdf",
+                "startDate":"July-2022",
+                "endDate":"Oct 2022"
+            },
+            {
+                "organization":"Meta",
+                "image":"meta.png",
+                "jobTitle":"Advanced React",
+                "discription":"Create robust and reusable components with advanced techniques and learn different patterns to reuse common behavior Interact with a remote server and fetch and post data via an API. Seamlessly test React applications with React Testing Library Integrate commonly used React libraries to streamline your application development",
+                "certificate":"MetaByCoursera.pdf",
+                "startDate":"July-2022",
+                "endDate":"Oct 2022"
+            }
+
+        ]
+
+
+}
