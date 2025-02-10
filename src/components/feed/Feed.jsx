@@ -7,11 +7,11 @@ import Certificates from './Certificates/Certificates'
 import Volunteering from './Volunteering/Volunteering';
 const Feed = () => {
    const theme=useSelector(state=>state.theme.theme)
-   const [isActive, setIsActive] = useState([true,false,false,false,false])
+   const [isActive, setIsActive] = useState([true,false,false,false])
    const handleClick = (index) => {
-    let newArr=[false,false,false,false]
-    newArr[index]=!isActive[index]
-     setIsActive(newArr)
+      let newArr=[false,false,false,false]
+      newArr[index]=true
+      setIsActive(newArr)
    }
   return (
     <Stack style={{
